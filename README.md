@@ -138,7 +138,9 @@ The demonstration includes:
 
 [Demonstration Video](https://youtube.com/shorts/AsPFrTOfDrY?si=1ypEa97JbAhKUjPN)
 
-(https://youtube.com/shorts/89xMoLI5JnI?si=omO4xazwVasmRHI6)
+
+[Demonstration Video](https://youtube.com/shorts/89xMoLI5JnI?si=omO4xazwVasmRHI6)
+
 ---
 
 ## 7. Project Files
