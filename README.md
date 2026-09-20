@@ -75,7 +75,7 @@ The webpage displays:
 
 The webpage refreshes automatically to update the sensor readings.
 
-![Web Dashboard](images/webpage.png)
+![Web Dashboard](https://github.com/Noreak395/IOT_Lab_2/blob/main/IMG_20260920_185414_277.jpg)
 
 ### LCD Temperature
 Click the **Show Temperature** button to display the temperature on the second line of the LCD.
@@ -88,7 +88,7 @@ Temp: 27 C
 
 Click the button again to hide the temperature.
 
-![LCD Temperature](images/lcd-temperature.jpg)
+![LCD Temperature](https://github.com/Noreak395/IOT_Lab_2/blob/main/IMG_20260920_185414_277.jpg)
 
 ### LCD Distance
 
@@ -102,7 +102,7 @@ Distance: 24.5cm
 
 Click the button again to hide the distance.
 
-![LCD Distance](images/lcd-distance.jpg)
+![LCD Distance](https://github.com/Noreak395/IOT_Lab_2/blob/main/IMG_20260920_185414_277.jpg)
 
 ### Servo Control
 The webpage contains a slider with a range from **0 to 180 degrees**.
