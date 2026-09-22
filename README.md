@@ -41,6 +41,8 @@ The components used in this project are:
 
 The LCD I2C address used in this project is `0x27`.
 
+![wiring](wiring.jpg)
+
 ## 4. Software Setup
 ### Requirements
 
